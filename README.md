@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Soufiane Farah
 
-<!--
-**mrfarah21/mrfarah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile app developer focused on building fast, modern, and user-centered applications.
 
-Here are some ideas to get you started:
+🎯 I design custom solutions for individuals and businesses  
+💼 Open to freelance projects and collaborations  
+🌍 Available to work remotely worldwide
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Coming Soon
+
+I'm working on new and innovative apps that will be published here soon.  
+Follow me to stay updated.
+
+---
+
+📩 **Get in touch**  
+Got an idea or a project in mind? Let's talk:
+- Email: soufianefarah92@gmail.com 
+- LinkedIn: hhttps://www.linkedin.com/in/soufiane-farah-1747a9180
+
+---
